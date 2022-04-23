@@ -1,0 +1,26 @@
+.list-form {
+  font-size: 15px;
+}
+
+.list-form input {
+  padding: 6px 15px;
+  border-radius: 1em;
+  border: 1px solid rgb(15, 15, 15);
+  outline: none;
+}
+
+.list-form button {
+  font-weight: bold;
+  margin-left: 1em;
+  padding: 6px 15px;
+  border-radius: 1em;
+  border: none;
+  outline: none;
+  background-color: #f6f6f6;
+  transition: all 0.3s ease;
+}
+.list-form button:hover {
+  cursor: pointer;
+  background-color: #f0eeee;
+  transition: all 0.3s ease;
+}
